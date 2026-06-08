@@ -83735,7 +83735,7 @@ const UQe = () => we.jsx("div", {
           className: "space-y-4",
           children: [we.jsx("h1", {
             className: "text-4xl sm:text-5xl font-bold text-white hover-target",
-            children: window.__HERO__ && window.__HERO__.title ? window.__HERO__.title : "Hello, I am Harsha Nimmagadda"
+            children: window.__HERO__ && window.__HERO__.title ? window.__HERO__.title : "Hello, I am Sai Harsha Nimmagadda"
           }), we.jsxs("div", {
             className: "space-y-3",
             children: [we.jsx("p", {
@@ -128454,9 +128454,9 @@ const x4 = ({
             }), we.jsxs("div", {
               children: [we.jsx("p", {
                 className: "grid-headtext",
-                children: "Hi, I'm Harsha Nimmagadda"
+                children: "Hi, I'm Sai Harsha Nimmagadda"
               }), we.jsx(x4, {
-                text: "I, Harsha Nimmagadda, am a PhD student in Electrical and Computer Engineering at Arizona State University, focused on ASIC design, DFT, and ML-driven hardware systems.",
+                text: "I, Sai Harsha Nimmagadda, am a PhD student in Electrical and Computer Engineering at Arizona State University, focused on ASIC design, DFT, and ML-driven hardware systems.",
                 className: "grid-subtext"
               })]
             })]
@@ -128622,7 +128622,7 @@ const x4 = ({
       })]
     }), we.jsx("p", {
       className: "text-white-500",
-      children: "© 2024 Harsha Nimmagadda. All rights reserved."
+      children: "© 2024 Sai Harsha Nimmagadda. All rights reserved."
     })]
   }),
   Fft = [{
@@ -128724,7 +128724,7 @@ const x4 = ({
           children: [we.jsx("a", {
             href: "/",
             className: "text-neutral-400 font-bold text-xl hover:text-white transition-colors",
-            children: "Harsha Nimmagadda"
+            children: "Sai Harsha Nimmagadda"
           }), we.jsx("button", {
             onClick: i,
             className: "text-neutral-400 hover:text-white focus:outline-none sm:hidden flex",
@@ -128925,7 +128925,7 @@ const zft = () => {
       c = u => {
         u.preventDefault(), s(!0), mne.init("Um9UTtfHF-SisdxnF"), mne.send("service_86k4nf4", "template_g1o26id", {
           from_name: a.name,
-          to_name: "Harsha Nimmagadda",
+          to_name: "Sai Harsha Nimmagadda",
           from_email: a.email,
           to_email: "snimma13@asu.edu",
           message: a.message
