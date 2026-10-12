@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://harsha-nimmagadda-eng.github.io/sitemap.xml
+Sitemap: https://harsha-nimmagadda-eng.github.io/Harsha-Nimmagadda.github.io/sitemap.xml
