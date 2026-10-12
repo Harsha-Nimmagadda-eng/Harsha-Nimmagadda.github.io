@@ -16,8 +16,7 @@ window.__PROFILE_SECTIONS__ = [{
   id: "publications",
   title: "Publications",
   items: [
-    "Add your paper titles, venue, and year here.",
-    "Example: Title - Conference/Journal - Year."
+    "AI-Driven Zero-Touch WiFi Edge Monitoring with Energy and Freshness-Aware Control — IEEE GLOBECOM 2026."
   ]
 }, {
   id: "awards",
